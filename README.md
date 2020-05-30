@@ -1,6 +1,6 @@
 # usimpleflake
 
-A simple distributed id generator for the lazy. It's a simple Python module written in Rust based on SawdustSofware's.
+A simple distributed id generator for the lazy. It's a simple Python module written in Rust based on [SawdustSofware's](https://github.com/SawdustSoftware/simpleflake).
 
 # Usage
 
