@@ -1,0 +1,16 @@
+[package]
+name = "usimpleflake"
+version = "0.0.1"
+authors = ["faruken"]
+edition = "2018"
+
+[lib]
+name = "usimpleflake"
+crate-type = ["cdylib"]
+
+[dependencies]
+rand = "0.7.3"
+
+[dependencies.pyo3]
+version = "0.10.1"
+features = ["extension-module"]
